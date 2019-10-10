@@ -1,9 +1,9 @@
-# Coding Blocks IDE  
-Coding Blocks IDE is an online IDE which supports compilation of multiple programming languages. 
+# Coding Blocks IDE
+Coding Blocks IDE is an online IDE which supports compilation of multiple programming languages.
 
 ## Deployment
 
-[![Netlify](https://www.netlify.com/img/global/badges/netlify-color-accent.svg)](https://app.netlify.com/sites/cb-ide)  
+[![Netlify](https://www.netlify.com/img/global/badges/netlify-color-accent.svg)](https://app.netlify.com/sites/cb-ide)
 Commits to master and PRs are automatically built and deployed by Netlify
 
 ![image](https://user-images.githubusercontent.com/22571395/40135873-ffe73618-5963-11e8-85db-01c103688f4a.png)
@@ -13,7 +13,7 @@ Commits to master and PRs are automatically built and deployed by Netlify
 - [Features](#features)
 - [Functions](#functions)
 - [API](#api)
-  
+
 ## Build Setup
 
 ``` bash
@@ -38,11 +38,11 @@ This responsive online code editor and compiler have the following features.
 |Feature|Deatils|
 |-------|-------|
 |**Multiple Language Support**|C, C++, Java, Python, Java Script.|
-|**Upload Code**|Code can be uploaded from local system|
+|**Upload Code**|Code can be uploaded from local system.|
 |**Download Code**|Code can be downloaded with the name specified by the user.|
 |**Custom Input**|A custom input box available for the user where user can enter inputs required by the program to run.|
 |**FullScreen Mode**|Editor can go fullscreen.|
-|**Save and Auto Save**|Code and editor settings gets auto-saved after every 10 seconds to prevent lose of code on closing the window accidently. User can also save the code manually by clicking the save button.|
+|**Save and Auto Save**|Code and editor settings get auto-saved after every 10 seconds to prevent lose of code on closing the window accidently. User can also save the code manually by clicking on the save button.|
 |**Themes**|There are 9 editor themes available to choose from.|
 |**Fonts**|7 different fonts for the editor.|
 |**Font Size**|User can also set font size for the editor.|
@@ -58,8 +58,8 @@ This responsive online code editor and compiler have the following features.
 |**DOWNLOAD**|Use the button to download the code in the editor into a file.|
 |**Custom Input**|Use to toggle custom input box.|
 
-## API 
-This hits the Coding Blocks Judge API, which you can find documented here
+## API
+This hits the Coding Blocks Judge API, which you can find documented here:
 
 <https://codingblocks.com/judge-blocks-docs/>
 
